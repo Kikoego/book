@@ -1,6 +1,6 @@
 #parent {
-	width: 200px;
-	height: 100px;
+	width:200px;
+	height: 200px;
 	border: 1px solid orange;
 }
 
@@ -8,5 +8,5 @@
 	height: 50px;
 	width: 100px;
 	border: 1px dashed blue;
-	margin: 25px 45px;
+	margin: 120px 45px 30px;
 }
