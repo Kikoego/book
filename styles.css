@@ -1,5 +1,5 @@
 .parent {
-	text-align: end;
-	padding: 10px 0;
+	padding-right: 50px;
+	text-align: right;
 	border: 1px solid red;
 }
