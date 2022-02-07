@@ -1,11 +1,11 @@
 .parent	{
-	width: 500px;
+	width: 1000px;
 	display: inline-flex;
-	padding: 10px;
 	border: 1px solid red;
 }
 .child {
-	width: 50px;
+	margin: 20px;
+	width: 100px;
 	height: 50px;
 	border: 1px solid green;
 }
