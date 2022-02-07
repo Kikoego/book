@@ -1,3 +1,23 @@
-ol {
-	list-style-type: upper-alpha;
+#parent {
+	position: relative;
+	width: 300px;
+	height: 200px;
+	margin: 50px auto;
+	border: 1px solid green;
+}
+#child {
+	position: absolute;
+	top: 0px;
+	left: -50px;
+	width: 25px;
+	height: 25px;
+	border: 1px solid red;
+}
+#child1 {
+	position: absolute;
+	top: 0px;
+	left: 325px;
+	width: 25px;
+	height: 25px;
+	border: 1px solid red;
 }
