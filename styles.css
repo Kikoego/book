@@ -4,14 +4,15 @@
 	border: 1px solid red;
 	text-align: justify;
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	align-items: center;
 	justify-content: flex-end;
+	padding-bottom: 100px;
 }
 .child {
 	float: left;
 	width: 100px;
 	height: 75px;
 	border: 1px solid green;
-	margin: 50px;
+
 }
